@@ -1,0 +1,15 @@
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: auto;
+}
+.copyright-icon {
+  /* background: transparent; */
+  color: #ccc;
+  padding: 1em;
+}
+
+footer p {
+  color: #ccc;
+}
