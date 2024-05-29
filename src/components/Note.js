@@ -7,7 +7,7 @@ const Note = () => {
         return (
           <div className="note" key={key}>
             <h1>{note.title}</h1>
-            <p style={{color:"red"}}>Silas</p>
+           
             <p>{note.content}</p>
           </div>
         );
